@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Google Cloud Storage.iml" filepath="$PROJECT_DIR$/Google Cloud Storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlecloudstorage-build/googlecloudstorage-build.iml" filepath="$PROJECT_DIR$/googlecloudstorage-build/googlecloudstorage-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlecloudstorage-client/googlecloudstorage-client.iml" filepath="$PROJECT_DIR$/googlecloudstorage-client/googlecloudstorage-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlecloudstorage-common/googlecloudstorage-common.iml" filepath="$PROJECT_DIR$/googlecloudstorage-common/googlecloudstorage-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlecloudstorage-designer/googlecloudstorage-designer.iml" filepath="$PROJECT_DIR$/googlecloudstorage-designer/googlecloudstorage-designer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlecloudstorage-gateway/googlecloudstorage-gateway.iml" filepath="$PROJECT_DIR$/googlecloudstorage-gateway/googlecloudstorage-gateway.iml" />
+    </modules>
+  </component>
+</project>
